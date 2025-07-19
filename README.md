@@ -53,7 +53,7 @@ I'm a Data Science student with a deep passion for AI and ML, proficient in buil
 
 ## 🏆 Trophies & Awards:
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Talha-Ali-5365&column=-1&theme=dark_lover )](https://github.com/ryo-ma/github-profile-trophy )
+![](https://github-profile-trophy.vercel.app/?username=Talha-Ali-5365&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
 
 - **Winner:** Agentika AI Hackathon (Organized by Grayhat & Upstreet)
 - **Winner:** Mastra MCP Hackathon (NaSCon), organized by Illegal Agents
