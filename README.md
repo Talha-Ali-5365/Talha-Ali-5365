@@ -59,16 +59,12 @@ I'm a Data Science student with a deep passion for AI and ML, proficient in buil
 - **Winner:** Mastra MCP Hackathon (NaSCon), organized by Illegal Agents
 
 ---
-
-## 📊 Statistics:
-
-<br>
-<img src="https://pixel-profile-ui.vercel.app/api/github-stats?username=Talha-Ali-5365&include_all_commits=true&pixelate_avatar=false&theme=road_trip" alt="Talha-Ali-5365's Stats">
-<a href="https://github.com/Talha-Ali-5365/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fawn-seven-41.vercel.app/api?username=Talha-Ali-5365&theme=gruvbox&hide_border=true"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Ali-5365&theme=gruvbox&show_icons=true&hide_border=true&layout=donut" alt="Talha-Ali-5365's Top Languages">
-</a>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Talha-Ali-5365&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Talha-Ali-5365&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Ali-5365&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Talha-Ali-5365&limit=4&theme=dark&combine_all_yearly_contributions=true)
+---
 ### [![Quote](https://readme-typing-svg.demolab.com/?lines=“The+best+way+to+predict+the+future;is+to+invent+it.”&font=Fira+Code&weight=600&size=22&height=60&color=FFD700&multiline=true )](https://git.io/typing-svg )
