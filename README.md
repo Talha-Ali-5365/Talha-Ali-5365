@@ -1,3 +1,5 @@
+### [![Quote](https://readme-typing-svg.demolab.com/?lines=“The+best+way+to+predict+the+future;is+to+invent+it.”&font=Fira+Code&weight=600&size=22&height=60&color=FFFFFF&width=500&multiline=true )](https://git.io/typing-svg )
+---
 # Hi 👋, I'm Talha Ali
 ### 🚀 Data Science Student | AI & ML Enthusiast
 
@@ -40,4 +42,3 @@ I'm a Data Science student with a deep passion for AI and ML, proficient in buil
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Talha-Ali-5365&limit=4&theme=dark&combine_all_yearly_contributions=true)
 ---
-### [![Quote](https://readme-typing-svg.demolab.com/?lines=“The+best+way+to+predict+the+future;is+to+invent+it.”&font=Fira+Code&weight=600&size=22&height=60&color=FFFFFF&width=500&multiline=true )](https://git.io/typing-svg )
